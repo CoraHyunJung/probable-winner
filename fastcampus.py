@@ -1,3 +1,3 @@
-for i in range(5):
-    print("Slave Python File: fastcampus.py on stem branch")
+for i in range(101):
+    print(i)
 
